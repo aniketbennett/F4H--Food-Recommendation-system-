@@ -1,0 +1,718 @@
+﻿food items,Avg Serving Size,Calories,Category
+Apple,182,94.64,Fruits
+Apricot,55,26.4,Fruits
+Avocado,30,48,Fruits
+Banana,118,105.02,Fruits
+Black Chokeberry,143,71.5,Fruits
+Blackberries,144,89.28,Fruits
+Blueberries,148,84.36,Fruits
+Cantaloupe,134,64.32,Fruits
+Cherry,140,70,Fruits
+Cranberry,100,46,Fruits
+Date Palm,24,15.84,Fruits
+Durian,243,867.51,Fruits
+Elderberry,145,105.85,Fruits
+Golden berries,140,103.6,Fruits
+Gooseberries,150,99,Fruits
+Grapefruit,154,64.68,Fruits
+Grapes,92,63.48,Fruits
+Guava,55,20.9,Fruits
+Jackfruit,165,155.1,Fruits
+Jujube,28.35,22.39,Fruits
+Juniper Berries,6,0.18,Fruits
+Kiwi,76,46.36,Fruits
+Longan Fruit,190,114,Fruits
+Lychee,190,125.4,Fruits
+Mango,165,163.35,Fruits
+Melon,156,82.68,Fruits
+Mulberry,140,60.2,Fruits
+Nectarines,142,85.2,Fruits
+Orange,154,72.38,Fruits
+Papaya,140,77,Fruits
+Passion Fruit,18,3.06,Fruits
+Pear,178,101.46,Fruits
+Persimmon,168,198.24,Fruits
+Pineapple,165,82.5,Fruits
+Plum,66,30.36,Fruits
+Pomegranate,282,234.06,Fruits
+Pomelo,301,114.38,Fruits
+Rambutan,9,6.21,Fruits
+Raspberry,123,63.96,Fruits
+Redberries,123,60.27,Fruits
+Rhubarb,122,25.62,Fruits
+Starfruit,91,28.21,Fruits
+Strawberry,140,68.6,Fruits
+Tangerine,88,46.64,Fruits
+Uglifruit,182,109.2,Fruits
+Watermelon,286,85.8,Fruits
+Harrd Red Wheat,100,123,Grains
+Soft Red Wheat,100,125,Grains
+Hard White Wheat,100,125,Grains
+Soft White Wheat,100,124,Grains
+Durum Wheat,100,123,Grains
+Einkorn Wheat,100,343,Grains
+Spelt Wheat,100,135,Grains
+Emmer Wheat,100,136,Grains
+White Rice,85,110.5,Grains
+Brown Rice,85,95.2,Grains
+Basmati Rice,100,370,Grains
+Jasmine Rice,100,130,Grains
+Arborio Rice,100,97,Grains
+Black Rice,100,335,Grains
+Red Rice,100,111,Grains
+Wild RIce,100,101,Grains
+Dent Corn,166,175.96,Grains
+Sweet Corn,145,123.25,Grains
+Popcorn,24,92.88,Grains
+Flint Corn,90,324,Grains
+Flour Corn,16,57.6,Grains
+Waxy Corn,85,73.1,Grains
+Rolled Oats,100,389,Grains
+Steel-cut Oats,100,378,Grains
+Quick Oats,100,379,Grains
+Instant Oats,100,389,Grains
+Oat Groats,100,379,Grains
+Hulled Barley,100,354,Grains
+Pearled Barley,100,352,Grains
+Scotch Barley,100,354,Grains
+Barley Flakes,165,580.8,Grains
+Barley Grits,100,352,Grains
+Barley Flour,120,422.4,Grains
+Purple Barley,120,424.8,Grains
+Black Barley,120,147.6,Grains
+Sprouted Barley,120,44.4,Grains
+Whole Rye,50,168,Grains
+Rye Flakes,45,152.1,Grains
+Rye Flour,10,33.5,Grains
+Pumpernickel,120,300,Grains
+Rye Bread,32,72,Grains
+White Quinoa,185,222,Grains
+Red Quinoa,125,150,Grains
+Black Quinoa,135,162,Grains
+Tri-color Quinoa,120,144,Grains
+Purple Quinoa,100,120,Grains
+High-altitude Quinoa,160,192,Grains
+Golden Quinoa,160,192,Grains
+Pearl Millet,170,202.3,Grains
+Foxtail Millet,150,178.5,Grains
+Finger Millet,100,119,Grains
+Proso Millet,100,119,Grains
+Barnyard Millet,174,168.78,Grains
+Kodo Millet,100,104,Grains
+Little Millet,100,119,Grains
+Grain Sorghum,175,176.75,Grains
+Sweet Sorghum,164,234.52,Grains
+Broomcorn Sorghum,170,559.3,Grains
+Black Sorghum,110,372.9,Grains
+White Sorghum,110,132,Grains
+Red Sorghum,110,111.1,Grains
+Common Buckwheat,167,153.64,Grains
+Tartary Buckwheat,175,161,Grains
+Silverhull Buckwheat,170,156.4,Grains
+Buckwheat Groats,170,156.4,Grains
+Kasha,100,92,Grains
+Amaranth (Ramdana),100,102,Grains
+Ivory Teff,100,101,Grains
+Brown Teff,130,131.3,Grains
+Mixed Teff,130,477.1,Grains
+Spelt,100,135,Grains
+Kamut,50,74.5,Grains
+Emmer Farro,100,132,Grains
+Spelt Farro,100,119,Grains
+Bulgur( Dalia),150,124.5,Grains
+Hot Chocolate,200,384,Beverages
+Mulled Wine,150,306,Beverages
+Affogato,120,162,Beverages
+Bone broth,240,74.4,Beverages
+Yerba mate,240,50.4,Beverages
+Gluhwein,200,280,Beverages
+Bissap,200,98,Beverages
+Horchata,240,211.2,Beverages
+Spiced cider,240,134.4,Beverages
+White hot chocolate,350,1781.5,Beverages
+Coconut hot chocolate,350,1298.5,Beverages
+Peanut butter hot chocolate,350,1715,Beverages
+Mint hot chocolate,350,1480.5,Beverages
+Iced Tea,400,4,Beverages
+Lemonade,400,192,Beverages
+Smoothies,350,273,Beverages
+Milkshakes,350,420,Beverages
+Slushies,300,375,Beverages
+Kombucha,250,35,Beverages
+Iced Coffee,350,10.5,Beverages
+Frappuccino,450,571.5,Beverages
+Soda,350,147,Beverages
+Sparkling Water,350,0,Beverages
+Flavored Water,350,0,Beverages
+Coconut Water,350,66.5,Beverages
+Sports Drinks,500,140,Beverages
+Energy Drinks,250,112.5,Beverages
+Protien Shakes,500,2035,Beverages
+Chai Latte(iced),350,112,Beverages
+Arnold Palmer,400,80,Beverages
+Italian Soda,350,420,Beverages
+Agua Fresca,400,120,Beverages
+Green Smoothies,400,200,Beverages
+Mango Lassi,350,420,Beverages
+Cucumber Water,400,0,Beverages
+Fruit infused Iced Tea,400,80,Beverages
+Thai Iced tea,400,640,Beverages
+Matcha Latte (iced),350,245,Beverages
+Peppermint Iced Tea,400,80,Beverages
+Peach iced Tea,400,120,Beverages
+Ginger Beer,350,119,Beverages
+Limeade,400,180,Beverages
+Blueberry Smoothie,400,200,Beverages
+Vanilla Milkshake,450,931.5,Beverages
+Chocolate Milkshake,450,913.5,Beverages
+Almond Milkshake,450,783,Beverages
+Cashew Milkshake,450,891,Beverages
+Rose Water Lemonade,400,156,Beverages
+Mint Lemonande,400,196,Beverages
+Black Iced Tea,400,4,Beverages
+White Iced Tea,400,4,Beverages
+Rooibos Iced tea,400,4,Beverages
+Broccoli,91,30.94,Vegetables
+Carrots,61,25.01,Vegetables
+Spinach,30,6.9,Vegetables
+Sweet Potato,114,98.04,Vegetables
+Tomatoes,123,22.14,Vegetables
+Beetroot,136,58.48,Vegetables
+Cabbage,70,17.5,Vegetables
+Cauliflower,100,25,Vegetables
+Celery,101,16.16,Vegetables
+Cucumber,104,15.6,Vegetables
+Garlic,3,4.47,Vegetables
+Lettuce,56,8.4,Vegetables
+Mushroom,70,15.4,Vegetables
+Onion,110,44,Vegetables
+Peas,85,68.85,Vegetables
+Green Pepper,74,14.8,Vegetables
+Yellow Pepper,186,50.22,Vegetables
+Red Pepper,74,22.94,Vegetables
+Potato,173,133.21,Vegetables
+Pumpkin,116,30.16,Vegetables
+Radish,116,18.56,Vegetables
+Zucchini,113,19.21,Vegetables
+Water Chestnut,74,71.78,Vegetables
+Turnips,130,36.4,Vegetables
+Yellow Onion,100,40,Vegetables
+Green Onion,25,2.5,Vegetables
+Eggplant,82,20.5,Vegetables
+Dandelion Greens,55,24.75,Vegetables
+Artichokes,120,56.4,Vegetables
+Asparagus,100,20,Vegetables
+Arugula,10,2.5,Vegetables
+Aubergine,82,20.5,Vegetables
+Bean Sprouts,100,30,Vegetables
+Bell Peppers,100,31,Vegetables
+Bok Choi,100,13,Vegetables
+Broad Beans,100,88,Vegetables
+Brussels Sprouts,100,43,Vegetables
+Calabrese,100,34,Vegetables
+Capers,5,1.15,Vegetables
+Capsicum,75,19.5,Vegetables
+Cardoons,50,8.5,Vegetables
+Butternut Squash,205,92.25,Vegetables
+Courgette,100,17,Vegetables
+Daikon Radish,100,18,Vegetables
+Cassava,100,160,Vegetables
+Choy Sum,100,35,Vegetables
+Cime de Rapa,100,29,Vegetables
+Chayote Squash,100,19,Vegetables
+Endive,100,17,Vegetables
+Escarole,100,19,Vegetables
+Fava Beans,100,341,Vegetables
+Fiddlehead,100,34,Vegetables
+Dasheen,100,112,Vegetables
+Datil Pepper,100,40,Vegetables
+Delicata Squash,100,31,Vegetables
+Fingerlimes,100,29,Vegetables
+French Beans,100,31,Vegetables
+French Sorrel,100,22,Vegetables
+Frisee,100,17,Vegetables
+Galangal,100,146,Vegetables
+Garbanzo Beans,100,164,Vegetables
+Garden Rocket,100,25,Vegetables
+Gongura,100,15,Vegetables
+Green Beans,100,31,Vegetables
+Green Onions,100,32,Vegetables
+Guar,100,386,Vegetables
+Hass Avocado,100,160,Vegetables
+Delicacy White Kohlrabi,100,27,Vegetables
+Dickinson Pumpkin,100,26,Vegetables
+Edamame Beans,100,121,Vegetables
+Elephant garlic,100,149,Vegetables
+Habanero,45,9.45,Vegetables
+Haricot Beans,100,127,Vegetables
+Heirloom Tomatoes,100,18,Vegetables
+Hispi Cabbage,100,49,Vegetables
+Hokkaido Squash,100,32,Vegetables
+Horseradish,46,22.08,Vegetables
+Iceberg Lettuce,57,5.7,Vegetables
+Ice Cream Bean,100,34,Vegetables
+Italian Red Onion,40,12.8,Vegetables
+Ivy Gourd,60,12,Vegetables
+Jalapeno,14,0.56,Vegetables
+Japanese Mustard Greens,50,13.5,Vegetables
+Jerusalem Artichokes,100,73,Vegetables
+Jicama,100,49,Vegetables
+Jojoto,150,115.5,Vegetables
+Kabocha Squash,150,60,Vegetables
+Kai Lan,75,10.5,Vegetables
+Kale,75,24.75,Vegetables
+Kangkong,100,19,Vegetables
+Kelp,100,43,Vegetables
+Kennebec Potato,100,77,Vegetables
+Kidney Bean,100,127,Vegetables
+King Edward Potato,150,115.5,Vegetables
+Kohlrabi,135,36.45,Vegetables
+Komatsuna,65,8.45,Vegetables
+Kombu,10,3.4,Vegetables
+Kovakkai,61,9.76,Vegetables
+Kuka,28,13.72,Vegetables
+Kurrat,38,17.86,Vegetables
+Lacinto Kale,70,34.3,Vegetables
+Lagos Bologi,100,16,Vegetables
+Lakota Squash,100,34,Vegetables
+Land Cress,100,22,Vegetables
+Laver,100,35,Vegetables
+Leaf Celery,100,16,Vegetables
+Lebanese Cucumber,100,15,Vegetables
+Yacon,100,76,Vegetables
+Yam,100,118,Vegetables
+Yam Bean,100,130,Vegetables
+Yarrow,100,36,Vegetables
+Yao Choy,100,17,Vegetables
+Yardlong Bean,100,47,Vegetables
+Yellow Squash,100,16,Vegetables
+Yuca Root,100,152,Vegetables
+Yukon Gold Potato,100,77,Vegetables
+Zebra Eggplant,100,25,Vegetables
+Zizania Latifolia,100,101,Vegetables
+Watercress,100,11,Vegetables
+Wax Beans,100,31,Vegetables
+Welsh Onions,100,32,Vegetables
+White Radish,100,16,Vegetables
+Vanilla,4,11.52,Vegetables
+Velvet Bean,100,347,Vegetables
+Vidalia Onion,148,88.8,Vegetables
+Vivaldi Potatoes,148,130.24,Vegetables
+Rock Samphire,100,49,Vegetables
+Roma Tomatoes,100,18,Vegetables
+Romaine Lettuce,100,17,Vegetables
+Romanesco,100,30,Vegetables
+Rosa Bianca Eggplant,100,25,Vegetables
+Runner Beans,100,31,Vegetables
+Pinkbean,100,341,Vegetables
+Pinto Beans,100,347,Vegetables
+Pitwaa,100,38,Vegetables
+Plum Tomatoes,100,18,Vegetables
+Pointed Cabbage,100,16,Vegetables
+Navy Beans,333,200.13,Vegetables
+Neeps,28,1.73,Vegetables
+Nettles,42,2.56,Vegetables
+New Potatoes,77,13.32,Vegetables
+Methi,100,49,Vegetables
+Microgreens,100,20,Vegetables
+Mizuna,100,27,Vegetables
+Molokhia,100,53,Vegetables
+Broiler Chicken,100,239,Meat
+Desi Chicken,100,205,Meat
+Kadaknath Chicken,100,200,Meat
+Rohu Fish,100,97,Meat
+Katla Fish,100,129,Meat
+Hilsa Fish,100,310,Meat
+Pomfret Fish,100,105,Meat
+Surmai Fish,100,133,Meat
+Bangda Fish,100,113,Meat
+Prawns Fish,100,90,Meat
+Lobster Fish,100,90,Meat
+Crabs Fish,100,84,Meat
+Tuna Fish,100,144,Meat
+Salmon Fish,100,206,Meat
+Sole Fish,100,70,Meat
+Sardines Fish,100,208,Meat
+Beef Meat,100,250,Meat
+Pork Meat,100,250,Meat
+Lambs Meat,100,250,Meat
+Mutton Meat,100,310,Meat
+Deer Meat,100,142,Meat
+Rabbits Meat,100,206,Meat
+Snails Meat,100,90,Meat
+Duck Meat,100,337,Meat
+Quail Meat,100,158,Meat
+Turkey Meat,100,135,Meat
+Guinea Fowl Meat,100,142,Meat
+Pigeon Meat,100,139,Meat
+Emu Meat,100,120,Meat
+Goose Meat,100,238,Meat
+Pabda Fish,100,90,Meat
+Tengra Fish,100,118,Meat
+Shingi Fish,100,105,Meat
+Chital Fish,100,97,Meat
+Puti Fish,100,89,Meat
+Shrimp Seafood,100,99,Meat
+Lobster Seafood,100,89,Meat
+Mussels Seafood,100,146,Meat
+Squid Seafood,100,92,Meat
+Oysters Seafood,100,81,Meat
+Clams Seafood,100,148,Meat
+Cochin Chicken,100,165,Meat
+Leghorn Chicken,100,164,Meat
+Acorns,100,387,Nuts & Seeds
+Almonds,28,161.28,Nuts & Seeds
+Baru Nuts,100,475,Nuts & Seeds
+Beech Nuts,100,567,Nuts & Seeds
+Black Walnut,100,691,Nuts & Seeds
+Brazil Nuts,28,183.67,Nuts & Seeds
+Butternut,120,54,Nuts & Seeds
+Cacao Seeds,28,148.4,Nuts & Seeds
+Candlenut,28,200.76,Nuts & Seeds
+Caraway Seeds,2.1,6.993,Nuts & Seeds
+Cashews,28,154.84,Nuts & Seeds
+Cedar Nuts,28,156.8,Nuts & Seeds
+Chestnuts,84,178.92,Nuts & Seeds
+Chia Seeds,28,136.08,Nuts & Seeds
+Coconut,28,79.24,Nuts & Seeds
+Filbert,28,175.84,Nuts & Seeds
+Flax Seeds,10,53.4,Nuts & Seeds
+Ginkgo nuts,28,50.96,Nuts & Seeds
+Hazelnuts,28,175.84,Nuts & Seeds
+Heartnut,28,198.51,Nuts & Seeds
+Hemp Seeds,30,165.9,Nuts & Seeds
+Hickory Nuts,28,54.04,Nuts & Seeds
+Jackfruit Seeds,100,135,Nuts & Seeds
+Kola Nuts,28,93.8,Nuts & Seeds
+Macadamia Nuts,28.35,203.55,Nuts & Seeds
+Mongongo Nuts,28.35,159.61,Nuts & Seeds
+Nigella Seeds,5,17.25,Nuts & Seeds
+Oak Nuts,28.35,160.74,Nuts & Seeds
+Peanuts,28.35,160.74,Nuts & Seeds
+Pecans,28.35,195.89,Nuts & Seeds
+Pili Nut,28.35,196.18,Nuts & Seeds
+Pine Nuts,28,188.44,Nuts & Seeds
+Pistachios,28,157.36,Nuts & Seeds
+Pomegranate Arils,87,72.21,Nuts & Seeds
+Poppy Seeds,28,147,Nuts & Seeds
+Pumpkin Seeds,28,35.28,Nuts & Seeds
+Quinoa Seeds,185,680.8,Nuts & Seeds
+Sesame Seeds,9,51.57,Nuts & Seeds
+Soynuts,28,126,Nuts & Seeds
+Squash Seeds,28,168,Nuts & Seeds
+Sunflower Seeds,28,163.51,Nuts & Seeds
+Walnuts,28,183.12,Nuts & Seeds
+Watermelon Seeds,100,557,Nuts & Seeds
+Greek salad,100,150,Salads
+Caesar salad,100,143,Non-veg Salads
+Caprese salad,100,190,Salads
+Cobb salad,100,204,Non-veg Salads
+Waldorf salad,100,183,Salads
+Potato salad,100,143,Salads
+Coleslaw,100,145,Salads
+Tuna salad,100,136,Non-veg Salads
+Chicken Caesar salad,100,160,Non-veg Salads
+Macaroni salad,100,235,Salads
+Pasta salad,100,182,Salads
+Ambrosia salad,100,137,Non-veg Salads
+Antipasto salad,100,177,Non-veg Salads
+Black bean salad,100,174,Salads
+Broccoli salad,100,154,Salads
+Carrot salad,100,149,Salads
+Chickpea salad,100,119,Salads
+Cucumber salad,100,12,Salads
+Egg salad,100,145,Non-veg Salads
+Falafel salad,100,333,Non-veg Salads
+Fruit salad,100,57,Salads
+Grilled vegetable salad,127,78.74,Salads
+Israeli salad,240,112.8,Salads
+Kale salad,67,32.83,Salads
+Lentil salad,198,425.7,Salads
+Mediterranean salad,140,210,Salads
+Nicoise salad,329,1036.35,Non-veg Salads
+Panzanella salad,200,204,Salads
+Quinoa salad,200,222,Salads
+Roasted beet salad,200,160,Salads
+Spinach salad,200,52,Salads
+Steak salad,100,147,Non-veg Salads
+Tabouli salad,100,78,Salads
+Waldorf chicken salad,100,134,Non-veg Salads
+Asian coleslaw,100,114,Salads
+Avocado and cucumber salad,100,70,Salads
+Bacon ranch potato salad,100,143,Non-veg Salads
+Barley and roasted vegetable salad,100,109,Salads
+Beet and goat cheese salad,100,133,Non-veg Salads
+Buffalo chicken salad,100,141,Non-veg Salads
+Caesar salad with shrimp,100,166,Non-veg Salads
+Chickpea and feta salad,100,158,Non-veg Salads
+Chinese chicken salad,100,183,Non-veg Salads
+Citrus avocado salad,100,142,Salads
+Couscous salad,100,131,Salads
+Cranberry and walnut salad,100,173,Salads
+Curried chicken salad,100,132,Non-veg Salads
+Grilled corn salad,100,132,Salads
+Grilled peach and chicken salad,100,130,Non-veg Salads
+Grilled shrimp and vegetable salad,100,89,Non-veg Salads
+Italian pasta salad,100,211,Salads
+Kale and quinoa salad,100,110,Salads
+Mango and black bean salad,100,121,Salads
+Melon and prosciutto salad,100,128,Non-veg Salads
+Moroccan chickpea salad,240,364.8,Salads
+Orange and fennel salad,120,72,Salads
+Peach and burrata salad,175,231,Salads
+Pesto pasta salad,150,300,Salads
+Rainbow salad,100,112,Salads
+Red potato salad with dill,100,121,Salads
+Roasted sweet potato and kale salad,100,95,Salads
+Salmon Nicoise salad,100,138,Non-veg Salads
+Shrimp and avocado salad,150,270,Non-veg Salads
+Southwestern black bean salad,150,195,Salads
+Spicy Thai beef salad,150,315,Non-veg Salads
+Strawberry and goat cheese salad,150,225,Salads
+Summer corn salad,150,195,Salads
+Tomato and mozzarella salad,150,240,Salads
+Watermelon and feta salad,250,127.5,Salads
+Chicken noodle soup,240,148.8,Non-veg Soup
+Tomato soup,245,173.95,Soup
+French onion soup,220,378.4,Non-veg Soup
+Minestrone soup,244,131.76,Soup
+Potato soup,245,387.1,Soup
+Vegetable soup,245,183.75,Soup
+Lentil soup,198,350.46,Soup
+Split pea soup,245,565.95,Soup
+Butternut squash soup,245,203.35,Soup
+Beef stew soup,245,526.75,Non-veg Soup
+Gazpacho soup,240,48,Soup
+Clam chowder soup,245,399.34,Non-veg Soup
+Corn chowder soup,245,340.54,Soup
+Broccoli cheddar soup,245,399.34,Soup
+Cream of mushroom soup,245,227.85,Soup
+Cream of tomato soup,245,205.7,Soup
+Fish chowder soup,245,347.9,Non-veg Soup
+Black Bean Soup,245,340.54,Soup
+Chicken and Rice Soup,245,200.8,Non-veg Soup
+Chicken and Dumpling Soup,245,281.75,Non-veg Soup
+Italian Wedding Soup,245,227.85,Non-veg Soup
+Beef Noodle Soup,245,274.4,Non-veg Soup
+Borscht Soup,245,164.15,Soup
+Cheese,36,145.08,Dairy
+Yogurt,100,63,Dairy
+Butter,7.05,49.35,Dairy
+Cream Cheese,34,116.28,Dairy
+Cottage Cheese,98,96.03,Dairy
+Whipped cream,30,77.1,Dairy
+Heavy cream,25,85,Dairy
+Butter Milk,100,40,Dairy
+Ghee,14,126,Dairy
+Cream,97,329.8,Dairy
+Light Cream,30,64.5,Dairy
+Clotted Cream,30,175.8,Dairy
+Sour Cream,32,63.36,Dairy
+Cow Ghee,14,126,Dairy
+Buffalo Ghee,14,126,Dairy
+Desi Ghee,14,126,Dairy
+Goat Ghee,14,126,Dairy
+Flavored ghee,15,135,Dairy
+Pure Ghee,14,126,Dairy
+PlainYogurt,120,73.2,Dairy
+Greek Yogurt,110,106.7,Dairy
+Salted Butter,14,100.38,Dairy
+Unsalted Butter,15,107.55,Dairy
+Whipped Butter,14,100.38,Dairy
+Veg Grilled Sandwich,175,402.5,Sandwich
+Masala Toast Sandwich,125,350,Sandwich
+Cheese Sandwich,125,412.5,Sandwich
+Paneer Sandwich,175,595,Sandwich
+Egg Sandwich,175,367.5,Non-veg Sandwich
+Peanut Butter and Jelly Sandwich,125,438.75,Sandwich
+Chicken Sandwich,175,418.25,Non-veg Sandwich
+Club Sandwich,225,801,Non-veg Sandwich
+Coleslaw Sandwich,175,250.25,Sandwich
+Veggie Delight Sandwich,175,402.5,Sandwich
+Aloo Toast Sandwich,125,400,Sandwich
+Corn and Cheese,175,472.5,Sandwich
+Cucumber and Tomato Sandwich,125,212.5,Sandwich
+Jam Sandwich,125,325,Sandwich
+Potato and Cheese Sandwich,175,612.5,Sandwich
+Bread Butter Sandwich,125,361.25,Sandwich
+White Bread,30,79.5,Breads
+Wheat Bread,33,81.51,Breads
+Whole Grain Bread,33,81.51,Breads
+Rye Breads,33,85.47,Breads
+Brown Bread,33,81.18,Breads
+Sprouted Grain Bread,33,80.19,Breads
+Multigrain Bread,33,81.51,Breads
+Paav Bread,55,163.35,Breads
+Bun Bread,55,154.55,Breads
+Brown Rices,85,95.2,Breakfast grains
+Basmati Rices,100,370,Breakfast grains
+Baby Corn,50,13,Breakfast grains
+Wild Rices,100,101,Breakfast grains
+Sweet Corns,145,123.25,Breakfast grains
+Rolled Oatss,100,389,Breakfast grains
+Quick Oatss,100,379,Breakfast grains
+Instant Oatss,100,389,Breakfast grains
+Steel-cut Oatss,100,378,Breakfast grains
+Oat Groatss,100,379,Breakfast grains
+Whole Barleys,100,354,Breakfast grains
+Barley Flakess,165,580.8,Breakfast grains
+Barley Gritss,100,352,Breakfast grains
+Whole Ryes,50,168,Breakfast grains
+Whole Grain Wheat,100,340,Breakfast grains
+Sprouts,50,15,Breakfast grains
+Whole Grain Quinoa,100,368,Breakfast grains
+Foxtail Millets,150,178.5,Breakfast grains
+Barnyard Millets,174,168.78,Breakfast grains
+Little Millets,100,119,Breakfast grains
+Kodo Millets,100,104,Breakfast grains
+Pearl Millets,170,202.3,Breakfast grains
+White Sorghums,110,132,Breakfast grains
+Sorghum Flakes,30,107.1,Breakfast grains
+Whole grain Sorghum,100,329,Breakfast grains
+Roti,50,148.5,Indian bread
+Paratha,75,222.75,Indian bread
+Fruit Juice,250,135,Juice
+Aloe Vera Juice,350,52.5,Juice
+Cold-pressed Juice,250,115,Juice
+Watermelon Juice,350,105,Juice
+Pineapple Juice,350,175,Juice
+Orange Juice,350,164.5,Juice
+Cranberry Juice,350,161,Juice
+Grapefruit Juice,350,136.5,Juice
+Pomegranate Juice,350,290.5,Juice
+Strawberry Juice,350,164.5,Juice
+Honeydrew Juice,350,224,Juice
+Cantaloupe Juice,350,119,Juice
+Papaya Juice,350,189,Juice
+Carrot Juice,350,143.5,Juice
+Apple Juice,240,110.4,Juice
+Mango Juice,240,144,Juice
+Beetroot Juice,240,103.2,Juice
+Black Coffee,240,2.4,Tea & Coffee
+Coffee with cream and sugar,240,278.4,Tea & Coffee
+Black Tea,240,4.8,Tea & Coffee
+Tea with milk and sugar,240,177.6,Tea & Coffee
+Hot Chocolate,200,384,Tea & Coffee
+Chai,240,312,Tea & Coffee
+Espresso,30,2.7,Tea & Coffee
+Cappuccino,180,97.2,Tea & Coffee
+Americano,240,2.4,Tea & Coffee
+Macchiato,80,41.6,Tea & Coffee
+Irish coffee,240,506.4,Tea & Coffee
+Masala chai,240,141.6,Tea & Coffee
+Earl Grey tea,200,2,Tea & Coffee
+Jasmine tea,200,2,Tea & Coffee
+Rooibos tea,200,0,Tea & Coffee
+Peppermint tea,200,0,Tea & Coffee
+Lemon ginger tea,200,2,Tea & Coffee
+Lavender latte,350,381.5,Tea & Coffee
+Cardamom coffee,240,4.8,Tea & Coffee
+Golden milk,350,560,Tea & Coffee
+Dalgona coffee,200,900,Tea & Coffee
+Red espresso,30,0.3,Tea & Coffee
+Chamomile tea,200,2,Tea & Coffee
+Cold Brew Coffee,350,3.5,Tea & Coffee
+Milk Tea,400,196,Tea & Coffee
+Boba Tea,500,245,Tea & Coffee
+Bubble Tea,500,245,Tea & Coffee
+Hibiscus tea,400,148,Tea & Coffee
+Normal Milk,100,61,Tea & Coffee
+Condensed Milk,110,353.1,Tea & Coffee
+Skim Milk,100,34,Tea & Coffee
+Low Fat Milk,100,46,Tea & Coffee
+Whole Milk,103,62.83,Tea & Coffee
+Soya Milk,102,55.08,Tea & Coffee
+Cow's Milk,102,62.22,Tea & Coffee
+Goat's Milk,103,71.07,Tea & Coffee
+Sheep's Milk,100,108,Tea & Coffee
+Buffalo Milk,100,97,Tea & Coffee
+Acorn,100,387,Healthy Fats
+Brazil nut,28,183.67,Healthy Fats
+butternut,120,54,Healthy Fats
+Candlenuts,28,200.76,Healthy Fats
+Caraway Seed,2.1,6.993,Healthy Fats
+Cashew,28,154.85,Healthy Fats
+Cedar Nut,28,156.8,Healthy Fats
+Chestnut,84,178.92,Healthy Fats
+Chia Seed,28,136.08,Healthy Fats
+Flax Seed,10,53.4,Healthy Fats
+Ginkgo nut,28,50.96,Healthy Fats
+Hazelnut,28,175.84,Healthy Fats
+Heartnuts,28,198.51,Healthy Fats
+Hemp Seed,30,165.9,Healthy Fats
+Hickory Nut,28,54.04,Healthy Fats
+Jackfruit Seed,100,135,Healthy Fats
+Kola Nut,28,93.8,Healthy Fats
+Macadamia Nut,28.35,203.55,Healthy Fats
+Nigella Seed,5,17.25,Healthy Fats
+Oak Nut,28.35,160.74,Healthy Fats
+Peanut,28.35,160.74,Healthy Fats
+Pecan,28.35,195.89,Healthy Fats
+Pine Nut,28,188.44,Healthy Fats
+Pistachio,28,157.63,Healthy Fats
+Pomegranate Aril,87,72.21,Healthy Fats
+Poppy Seed,28,147,Healthy Fats
+Pumpkin Seed,28,35.28,Healthy Fats
+Quinoa Seed,185,680.8,Healthy Fats
+Sesame Seed,9,51.57,Healthy Fats
+Soynut,28,126,Healthy Fats
+Squash Seed,28,168,Healthy Fats
+Sunflower Seed,28,163.51,Healthy Fats
+Smoothie,350,273,Healthy Fats
+Avocados,30,40,Healthy Fats
+Green Smoothie,400,200,Healthy Fats
+Blueberry Smoothies,400,200,Healthy Fats
+ghee,14,126,Healthy Fats
+plain yogurt,120,73.2,Healthy Fats
+greek gogurt,110,106.7,Healthy Fats
+sour cream,32,63.36,Healthy Fats
+butter milk,100,40,Healthy Fats
+Almond,28,161.28,Healthy Fats
+cheese,36,145.08,Protien
+cottage cheese,98,96.03,Protien
+skim milk,100,34,Protien
+low Fat milk,100,46,Protien
+whole milk,103,62.83,Protien
+soya milk,102,55.08,Protien
+cow's milk,102,62.22,Protien
+goat's milk,103,71.07,Protien
+sheep's milk,100,108,Protien
+buffalo milk,100,97,Protien
+hot choclate,200,384,Protien
+white hot chocolate,350,1781.5,Protien
+coconut hot chocolate,350,1298.5,Protien
+peanut butter hot chocolate,350,1715,Protien
+mint hot chocolate,350,1480.5,Protien
+milkshakes,350,420,Protien
+frappuccino,450,571.5,Protien
+protein shake,500,2035,Protien
+mango Lassi,350,420,Protien
+vanilla Milkshake,450,931.5,Protien
+chocolate Milkshake,450,913.5,Protien
+cashew Milkshake,450,891,Protien
+Eggs,50,71.5,Non-veg Protien
+baru Nuts,100,475,Protien
+beech Nuts,100,567,Protien
+black Walnut,100,691,Protien
+hemp seeds,30,165.9,Protien
+quinoa seeds,185,680.8,Protien
+soynuts,28,126,Protien
+squash seeds,28,168,Protien
+watermelon seeds,100,557,Protien
+veg grilled sandwich,175,402.5,Protien
+cheese sandwich,125,412.5,Protien
+paneer sandwich,175,595,Protien
+egg sandwich,175,367.5,Non-veg Protien
+peanut butter and jelly sandwich,125,438.75,Protien
+chicken sandwich,175,418.25,Non-veg Protien
+club sandwich,225,801,Non-veg Protien
+vegie delight sandwich,175,402.5,Protien
+corn and cheese sandwich,175,472.5,Protien
+mixed teff,130,477.1,Protien
+fava beans,100,341,Protien
+edamame beans,100,121,Protien
+kidney beans,100,127,Protien
+velvet beans,100,347,Protien
+pink beans,100,341,Protien
+pinto beans,100,347,Protien
+navy beans ,333,200.13,Protien
